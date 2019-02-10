@@ -1,2 +1,2 @@
 # animalrescuecreations
-creations used to help rescue orgetdonations, etc. for any animal.
+Creations used to help rescue orget donations, etc. for any animal.
